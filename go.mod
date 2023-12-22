@@ -1,4 +1,4 @@
-module github.com/dupakarovsky/pup
+module github.com/dupakarovsky/puppy
 
 go 1.21.5
 
